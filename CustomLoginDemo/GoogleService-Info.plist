@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>342055536385-aec942so8vt2rl5ecif7evne31ggot0f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.342055536385-aec942so8vt2rl5ecif7evne31ggot0f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFr52r3eiJu1WuphVPJ0mPzUxQs6Y70oY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>342055536385</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>FakeOrganisation.CustomLoginDemo</string>
+	<key>PROJECT_ID</key>
+	<string>customlogindemo-20291</string>
+	<key>STORAGE_BUCKET</key>
+	<string>customlogindemo-20291.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:342055536385:ios:151a83c56f483d9ffb7d00</string>
+	<key>DATABASE_URL</key>
+	<string>https://customlogindemo-20291.firebaseio.com</string>
+</dict>
+</plist>
